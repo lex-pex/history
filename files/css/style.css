@@ -1,0 +1,55 @@
+
+body {
+    color:#555;
+    background:#3a414f;
+}
+
+.main-grid-canvas {
+    padding:4%;
+}
+
+.main-grid-canvas img {
+    width:100%;
+    opacity: 0.9;
+}
+
+.history-even-card {
+    font-style: italic;
+}
+
+.history-even-card p {
+    padding: 15px 0 75px 0;
+    color:#ccc;
+    font-weight:200;
+    font-size: 1.1em;
+}
+
+.history-even-card h1,h2,h3,h4,h5,h6 {
+    color:#eee;
+    font-weight:bold;
+    font-style: italic;
+    text-align: center;
+    padding-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

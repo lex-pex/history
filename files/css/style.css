@@ -4,13 +4,17 @@ body {
     background:#3a414f;
 }
 
+strong {
+    color:#ddd;
+}
+
 .main-grid-canvas {
     padding:4%;
 }
 
 .main-grid-canvas img {
     width:100%;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
 .history-even-card {
